@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522976077 source:d:\cosas\tls\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getint.h"
+
+1522976104 d:\cosas\tls\array\getint.h
+	<stdio.h>
+	<stdlib.h>
+
+1522976273 source:e:\documentos varios\github\labclas1\array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getint.h"
+
+1524614932 e:\documentos varios\github\labclas1\array\getint.h
+	<stdio.h>
+	<stdlib.h>
+

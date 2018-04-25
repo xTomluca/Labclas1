@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1523489617 source:d:\clase 6 act 1 (funciones)\array.c
+
+1523490764 source:d:\clase 6 act 1 (funciones)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1523489096 d:\clase 6 act 1 (funciones)\array.h
+
+1523489617 source:e:\documentos varios\github\labclas1\clase 6 act 1 (funciones)\array.c
+
+1523843827 source:e:\documentos varios\github\labclas1\clase 6 act 1 (funciones)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1523489096 e:\documentos varios\github\labclas1\clase 6 act 1 (funciones)\array.h
+

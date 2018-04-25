@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524430383 source:c:\users\notebook\documents\facultad\clase8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblio.h"
+
+1524426960 source:c:\users\notebook\documents\facultad\clase8\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblio.h"
+
+1524421757 c:\users\notebook\documents\facultad\clase8\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+
+1524425493 c:\users\notebook\documents\facultad\clase8\biblio.h
+
+1524426960 source:e:\documentos varios\github\labclas1\clase8\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblio.h"
+
+1524425493 e:\documentos varios\github\labclas1\clase8\biblio.h
+
+1524621361 source:e:\documentos varios\github\labclas1\clase8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblio.h"
+

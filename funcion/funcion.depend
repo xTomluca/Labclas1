@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522887143 source:d:\tls\funcion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getint.h"
+
+1522887157 d:\tls\funcion\getint.h
+	<stdio.h>
+	<stdlib.h>
+
+1522887291 source:e:\documentos varios\facultad\mipcfacu\funcion\main.c
+	<stdio.h>
+	<stdlib.h>
+	"getint.h"
+
+1522887157 e:\documentos varios\facultad\mipcfacu\funcion\getint.h
+	<stdio.h>
+	<stdlib.h>
+
