@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525139144 source:d:\tomas\tps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"string.h"
+
+1525190852 d:\tomas\tps\funciones.h
+	<string.h>
+	<ctype.h>
+
+1525220861 source:e:\documentos varios\github\labclas1\tomas\tps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"string.h"
+
+1525226039 e:\documentos varios\github\labclas1\tomas\tps\funciones.h
+	<string.h>
+	<ctype.h>
+
