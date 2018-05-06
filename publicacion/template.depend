@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1524699666 source:d:\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524691839 source:d:\template\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524691839 d:\template\utn.h
+
+1524700062 source:d:\template\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524700062 d:\template\fantasma.h
+
+1524700064 source:d:\tls\templateprof\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524700064 d:\tls\templateprof\fantasma.h
+
+1524691840 d:\tls\templateprof\utn.h
+
+1524691840 source:d:\tls\templateprof\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524702826 source:d:\tls\templateprof\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1525394480 source:d:\tls\publicacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+	"publicacion.h"
+	"utn.h"
+
+1524691840 d:\tls\publicacion\utn.h
+
+1524691840 source:d:\tls\publicacion\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525390729 source:d:\tls\publicacion\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+	"utn.h"
+
+1525390379 d:\tls\publicacion\usuario.h
+
+1525394327 source:d:\tls\publicacion\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+
+1525392211 d:\tls\publicacion\publicacion.h
+
+1525576259 source:d:\documentos varios\github\labclas1\publicacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+	"publicacion.h"
+	"utn.h"
+
+1525390379 d:\documentos varios\github\labclas1\publicacion\usuario.h
+
+1525574891 d:\documentos varios\github\labclas1\publicacion\publicacion.h
+	"usuario.h"
+
+1524691840 d:\documentos varios\github\labclas1\publicacion\utn.h
+
+1525578147 source:d:\documentos varios\github\labclas1\publicacion\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"usuario.h"
+	"utn.h"
+
+1525555264 source:d:\documentos varios\github\labclas1\publicacion\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+	"utn.h"
+
+1524691840 source:d:\documentos varios\github\labclas1\publicacion\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
